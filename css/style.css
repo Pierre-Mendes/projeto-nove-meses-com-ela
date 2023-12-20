@@ -1,0 +1,27 @@
+body {
+  background-color: #f8f9fa;
+}
+.container {
+  margin-top: 50px;
+}
+#photo-section img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+#text-section {
+  text-align: justify;
+}
+#video-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
